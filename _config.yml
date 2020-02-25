@@ -1,11 +1,11 @@
 # Site settings
 author: Christopher Chaison
-title: 
+title: Might As Well Code
 header-img: img/home-bg.png
 email: cchaison0@gmail.com
 copyright_name: Christopher Chaison
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding done in Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  christopherc0825
